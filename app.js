@@ -1,4 +1,4 @@
-// const Payment = require('./models/payment')
+const Payment = require('./models/Payment')
 const express = require('express')
 require('./config/db.config.js')
 const app = express()
